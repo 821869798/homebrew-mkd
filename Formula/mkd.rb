@@ -3,7 +3,7 @@ class Mkd < Formula
   homepage "https://github.com/821869798/markd"
   url "https://github.com/821869798/markd/releases/download/v0.1.0/mkd-aarch64-apple-darwin.tar.gz"
   version "0.1.0"
-  sha256 ""
+  sha256 "36c36148ec083dca01c1abaa006ba607798c6bb177b64a490d9f630b1c1face1"
   license "MIT"
 
   def install
