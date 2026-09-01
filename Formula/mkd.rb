@@ -1,9 +1,9 @@
 class Mkd < Formula
   desc "Cross-platform directory bookmark manager with a Rust TUI and shell integration"
   homepage "https://github.com/821869798/markd"
-  url "https://github.com/821869798/markd/releases/download/v0.1.0/mkd-aarch64-apple-darwin.tar.gz"
-  version "0.1.0"
-  sha256 "36c36148ec083dca01c1abaa006ba607798c6bb177b64a490d9f630b1c1face1"
+  url "https://github.com/821869798/markd/releases/download/v0.1.1/mkd-aarch64-apple-darwin.tar.gz"
+  version "0.1.1"
+  sha256 "65ea67ed3552c8b3fe7bb6f883fea7108af2125c835a56e0f3033b8c47b589eb"
   license "MIT"
 
   def install
